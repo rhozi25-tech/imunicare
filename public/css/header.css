@@ -1,0 +1,19 @@
+.nav-link{
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding-right: 20px;
+}
+
+#example1 {
+  padding: 250px;
+  background: url(http://infokapalpesiar.com/wp-content/uploads/2018/10/Desain-tanpa-judul1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+
